@@ -1,0 +1,275 @@
+  body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        .page-header {
+            text-align: center;
+            background-color: #e9ecef;
+            padding: 20px;
+            border-bottom: 2px solid #cccccc;
+        }
+
+        nav {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #333;
+        }
+
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        nav a:hover {
+            background-color: #575757;
+        }
+
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .profile-section {
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        .profile-section img {
+            max-width: 200px;
+            border-radius: 50%;
+            border: 3px solid #ccc;
+        }
+
+        .credentials-list {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .credentials-list li {
+            background: #e9ecef;
+            margin: 10px 0;
+            padding: 10px;
+            border-left: 5px solid #007bff;
+        }
+        
+        .contact-info {
+            background-color: #f0f0f0;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+            text-align: center;
+        }
+
+.contact {
+    
+    border: 2px solid #333
+    
+
+
+}
+
+.aboutme {
+    border: 5px;
+    border-style: inset ;
+}
+
+/* Reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f4f8;
+  padding: 30px 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+button a {
+  text-decoration: none;
+  color: white;
+}
+
+button {
+  background-color: #007BFF;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+h2 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+a[href^="mailto:"] {
+  color: #007BFF;
+  text-decoration: none;
+}
+
+a[href^="mailto:"]:hover {
+  text-decoration: underline;
+}
+
+
+.form {
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  width: 100%;
+  margin-top: 20px;
+}
+
+fieldset {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+legend {
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+label {
+  display: block;
+  margin-top: 15px;
+  color: #444;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+textarea {
+  resize: vertical;
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+  margin-right: 8px;
+}
+
+.form-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+button[type="submit"] {
+  background-color: #28a745;
+}
+
+button[type="reset"] {
+  background-color: #dc3545;
+}
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+  background-color: #f4f4f4;
+  padding: 40px;
+  color: #333;
+  line-height: 1.6;
+}
+
+
+.about-box {
+  background-color: #fff;
+  padding: 30px;
+  margin: auto;
+  width: 80%;
+  max-width: 900px;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+
+.about-box h2 {
+  color: #2c3e50;
+  margin-bottom: 10px;
+  border-left: 5px solid #007BFF;
+  padding-left: 10px;
+}
+
+
+.about-box hr {
+  border: none;
+  height: 2px;
+  background-color: #007BFF;
+  margin: 20px 0;
+}
+
+
+.about-box p {
+  margin-bottom: 20px;
+  padding: 10px 15px;
+  background-color: #f9f9f9;
+  border-left: 4px solid #007BFF;
+  border-radius: 5px;
+}
+
+
+.about-box blockquote {
+  margin-bottom: 20px;
+}
+
+.btn1 {
+    background-color: rgb(128, 102, 102);
+    color:    #d6c3c5;
+;
+    
+}
+
+.btn2 {
+    background-color: rgb(128, 102, 102,);
+    color: #d6c3c5;
+    
+}
+      
+    
+  
+
+
+
+
+
+
